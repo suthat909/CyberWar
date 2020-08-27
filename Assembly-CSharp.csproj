@@ -58,157 +58,34 @@
      <Compile Include="Assets\Main\Test.cs" />
      <Compile Include="Assets\Main\PathfindingParams.cs" />
      <Compile Include="Assets\Main\UnitMoveOrderSystem.cs" />
-     <Compile Include="Assets\Main\Grid.cs" />
      <Compile Include="Assets\Scripts\CameraController\CameraController.cs" />
+     <Compile Include="Assets\Main\Grid.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
- </Reference>
- <Reference Include="UnityEditor.CacheServer">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/UnityEditor.CacheServer.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Monetization">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
- </Reference>
- <Reference Include="Unity.ScriptableBuildPipeline.Editor">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.ScriptableBuildPipeline.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Burst">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
  <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
- <Reference Include="Unity.Jobs">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Jobs.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Jobs.Editor">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Jobs.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Entities.Editor">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Entities.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Burst.Editor">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Collections">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Collections.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Properties.UI">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Properties.UI.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Serialization.Editor">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Serialization.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Properties">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Properties.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Build.SlimPlayerRuntime">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Build.SlimPlayerRuntime.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Scenes">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Scenes.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Scenes.Editor">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Scenes.Editor.dll</HintPath>
- </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Mathematics.Extensions">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Mathematics.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
- <Reference Include="Unity.Searcher.Editor">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Mathematics.Extensions.Hybrid">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Mathematics.Extensions.Hybrid.dll</HintPath>
- </Reference>
  <Reference Include="Unity.Timeline">
  <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Rendering.Hybrid">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Rendering.Hybrid.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Rendering.Hybrid.Editor">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Rendering.Hybrid.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Entities.BuildUtils">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Entities.BuildUtils.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.XR.LegacyInputHelpers">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Serialization">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Serialization.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
  <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
- <Reference Include="Unity.Entities.Hybrid.EndToEnd.Tests">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Entities.Hybrid.EndToEnd.Tests.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Entities.Hybrid">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Entities.Hybrid.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Mathematics">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Deformations">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Deformations.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Properties.UI.Editor">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Properties.UI.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Entities">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Entities.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Transforms">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Transforms.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Transforms.Editor">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Transforms.Editor.dll</HintPath>
- </Reference>
- <Reference Include="UnityEditor.SpatialTracking">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.SpatialTracking">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
- </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
  <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.ScriptableBuildPipeline">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.ScriptableBuildPipeline.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Mathematics.Editor">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
  <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
- <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
- </Reference>
- <Reference Include="UnityEditor.XR.LegacyInputHelpers">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
- </Reference>
  <Reference Include="UnityEditor.UI">
  <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Transforms.Hybrid">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/ScriptAssemblies/Unity.Transforms.Hybrid.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -392,21 +269,6 @@
  </Reference>
  <Reference Include="UnityEngine.XRModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Analytics.Editor">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Analytics.Tracker">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Burst.Unsafe">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/PackageCache/com.unity.burst@1.3.4/Unity.Burst.Unsafe.dll</HintPath>
- </Reference>
- <Reference Include="Newtonsoft.Json">
- <HintPath>D:/Project/Game Dev/CyberWar/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0-preview/Runtime/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.2f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
